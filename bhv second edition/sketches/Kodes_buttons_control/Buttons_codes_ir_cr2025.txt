@@ -1,0 +1,17 @@
+button '1' - E318261B +
+button '2' - 511DBB +
+button '3' - EE886D7F +
+button '4' - 52A3D41F +
+button '5' - D7E84B1B +
+button '6' - 20FE4DBB +
+button '7' - F076C13B
+button '8' - A3C8EDDB +
+button '9' - E5CFBD7F +
+button '0' - 97483BFB +
+button '#' - F0C41643 +
+button '*' - C101E57B +
+button 'upward' - 3D9AE3F7 +
+button 'down' - 1BC0157B +
+button 'left' - 8C22657B +
+button 'right' - 449E79F +
+button 'ok' - 488F3CBB +
